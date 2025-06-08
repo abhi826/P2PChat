@@ -1,0 +1,8 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Qt Language Server settings
+.qmlls.ini
+
+# Ignore build artifacts
+build/
